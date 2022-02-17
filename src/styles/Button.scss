@@ -1,0 +1,12 @@
+.check-more-button {
+  color: blue;
+  padding: 10px;
+  background: none;
+  width: 150px;
+  border: 2px solid blue;
+  text-transform: uppercase;
+
+  &:hover {
+    cursor: pointer;;
+  }
+}
